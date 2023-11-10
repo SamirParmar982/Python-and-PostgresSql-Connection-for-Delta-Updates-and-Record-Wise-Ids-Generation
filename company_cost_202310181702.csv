@@ -1,0 +1,14 @@
+"employeeid","productname","cost","totalsales","totalamount","locations"
+1001,Pepsodent,300,6,500,India
+1002,Pepsodent,400,8,650,France
+1002,Cadbury,400,8,550,Germany
+1003,Cadbury,300,10,600,United Kingdom
+1004,Maggi,800,14,2300,Germany
+1005,Cadbury,900,30,3000,India
+1005,Maggi,900,30,5500,South Africa
+1006,Centhol,300,6,500,United Kingdom
+1006,Pepsodent,300,6,570,India
+1007,Pepsodent,500,10,800,France
+1007,Centhol,700,6,850,India
+1008,Maggi,300,6,700,India
+1009,Centhol,980,12,2500,United Kingdom
